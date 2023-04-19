@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kgotso</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
-- 🔭 I’m currently working on [a predictor for local Premier Soccer League](https://github.com/kgotsosm/psl-analysis)
+- 🔭 I’m currently working on [a predictor for local Premier Soccer League matches](https://github.com/kgotsosm/psl-analysis)
 
 - 🌱 I’m currently learning **how to integrate data into my projects to get meaningful insights**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kgotsom@protonmail.com**
 
-- ⚡ Fun fact **I like solving puzzles**
+- ⚡ Fun fact **In my spare time, I enjoy watching shows about African wildlife**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
