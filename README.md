@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kgotso</h1>
-<h3 align="center">A passionate developer from South Africa</h3>
 
 - 🔭 I’m currently working on [a predictor for local Premier Soccer League matches](https://github.com/kgotsosm/psl-analysis)
 
