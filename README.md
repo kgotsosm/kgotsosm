@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kgotso</h1>
 
-- 🔭 I’m currently working on [a predictor for local Premier Soccer League matches](https://github.com/kgotsosm/psl-analysis)
 
 - 🌱 I’m currently learning **how to integrate data into my projects to gain meaningful insights.**
 
