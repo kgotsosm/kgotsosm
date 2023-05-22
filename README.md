@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to integrate data into my projects to gain meaningful insights.**
 
-I enjoy learning new techniques by completing projects and challenging myself to do things that grow my knowledge and understading of software and what it can do for us. 
+I enjoy learning new technologies by completing projects and challenging myself to do things that grow my knowledge and understading of software and what it can do for us. My projects can all be found here and more are added as they are being developed.
 
 - 📫 How to reach me: **kgotsom@protonmail.com**
 
