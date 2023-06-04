@@ -7,6 +7,11 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
+
+<p align='center'>Software Developer | Data Engineer</p>
+
+<p align='center'> 📫 As someone who is always passionate for learning more about tech and life, I have evolved into a tech career path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
+<br>
 📝 **Feel free to contact me:**
 <br>
 <br>
@@ -17,13 +22,11 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kgotso</strong></samp></h2>
 <h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software Developer | Data Engineer</p>
-
-<p align='center'> 📫 As someone who is always passionate for learning more about tech and life, I have evolved into a tech career path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
 <hr>
+
 <br>
 
-💻 **Languages & Tools:** 🛠️<br>
+💻 **Languages & Tools** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -35,21 +38,19 @@ https://simpleicons.org/
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 
-🌍 **Deployment platforms:**<br>
+🌍 **Deployment platforms**<br>
 
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
-📚 **Working on:** <br>
+📚 **Working on** <br>
 
-- **CodeSpace: Software Development**
-- **Dataquest: Data Engineering** 
-- **AWS: Certified Cloud Practitioner** 
+- **Movie Recommender App**
 <br>
 
 
-🤓 **Interested:** <br>
+🤓 **Interested in** <br>
 
 ![Amazon](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=000000)
 
