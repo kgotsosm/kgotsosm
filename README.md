@@ -1,21 +1,60 @@
-<h1 align="center">Hi 👋, I'm Kgotso</h1>
+<!--
+
+## Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
+
+## technologies Icons 
+https://simpleicons.org/
+
+-->
+📝 **Feel free to contact me:**
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Kgotso%20Makhalimele-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/kgotso-makhalimele/)
+[![Mail](https://img.shields.io/badge/Email-kgotsom@protonmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kgotsom@protonmail.com)
+<br>
+![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)
+
+<h2 align='center'><samp><strong>Hi there 👋, I'm Kgotso</strong></samp></h2>
+<h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Software developer | Data Engineer</p>
+
+<p align='center'> 📫 As someone who is always passionate for learning more about tech and life, I have evolved into a tech career path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
+<hr>
+<br>
+
+💻 **Languages & Tools:** 🛠️<br>
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=264de4)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=4B8BBE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
-- 🌱 I’m currently learning **how to integrate data into my projects to gain meaningful insights.**
+📚 **Working on:** <br>
 
-I enjoy learning new technologies by completing projects and challenging myself to do things that grow my knowledge and understading of software and what it can do for us. My projects can all be found here and more are added as they are being developed.
-
-- 📫 How to reach me: **kgotsom@protonmail.com**
-
-- ⚡ Fun fact **In my spare time, I enjoy watching sport or a good series**
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- **Dataquest Data Engineering Path** 
+- **AWS Certified Cloud Practitioner** 
+<br>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/kgotso-makhalimele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kgotso-makhalimele" height="30" width="40" /></a>
-<a href="https://medium.com/@kgotsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kgotsom" height="30" width="40" /></a>
+🤓 **Interested:** <br>
+
+![Amazon](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=000000)
+
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=kgotsosm" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
