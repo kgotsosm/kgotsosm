@@ -12,7 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Kgotso%20Makhalimele-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/kgotso-makhalimele/)
 [![Mail](https://img.shields.io/badge/Email-kgotsom@protonmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kgotsom@protonmail.com)
-![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)(https://medium.com/@kgotsom)
+[![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)(https://medium.com/@kgotsom)
 
 <br>
 
