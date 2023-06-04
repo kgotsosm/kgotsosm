@@ -17,7 +17,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kgotso</strong></samp></h2>
 <h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Data Engineer</p>
+<p align='center'>Software Developer | Data Engineer</p>
 
 <p align='center'> 📫 As someone who is always passionate for learning more about tech and life, I have evolved into a tech career path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
 <hr>
@@ -43,8 +43,9 @@ https://simpleicons.org/
 
 📚 **Working on:** <br>
 
-- **Dataquest Data Engineering Path** 
-- **AWS Certified Cloud Practitioner** 
+- **CodeSpace: Software Development**
+- **Dataquest: Data Engineering** 
+- **AWS: Certified Cloud Practitioner** 
 <br>
 
 
