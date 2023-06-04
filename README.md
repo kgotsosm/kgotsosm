@@ -3,7 +3,7 @@
 <hr>
 <p align='center'>Software Developer | Data Engineer</p>
 
-<p align='center'> 📫 As someone who is always passionate for learning more about tech and life, I have evolved into a tech career path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
+<p align='center'> 📫 As someone who has a passion for learning more about tech and life, I have evolved into a software development path, and love working with cutting edge tools and technologies while seeking opportunities to develop my skills in internship or job opportunity that will allow me to learn on the job and contribute meaningfully.</p>
 <br>
 
 📝 **Feel free to contact me**
@@ -12,7 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Kgotso%20Makhalimele-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/kgotso-makhalimele/)
 [![Mail](https://img.shields.io/badge/Email-kgotsom@protonmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kgotsom@protonmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)
+![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)
 
 <br>
 
