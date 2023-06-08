@@ -48,6 +48,7 @@
 🤓 **Interested in** <br>
 
 ![Amazon](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=000000)
+![Oracle](https://img.shields.io/badge/-oracle-000000?style=flat&logo=oracle&labelColor=000000)
 
 
 </br>
