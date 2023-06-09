@@ -3,7 +3,7 @@
 <hr>
 <p align='center'>Software Developer | Data Engineer</p>
 
-<p align='center'> 📫 As someone who has a passion for learning more about tech and life, I have evolved into a software development path, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
+<p align='center'> 📫 As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
 <br>
 
 📝 **Feel free to contact me**
