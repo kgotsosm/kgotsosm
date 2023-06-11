@@ -39,12 +39,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
-📚 **Working on** <br>
-
-- **Movie Recommender App**
-<br>
-
-
 🤓 **Interested in** <br>
 
 ![Amazon](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=000000)
