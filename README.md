@@ -1,6 +1,5 @@
 <h2 align='center'><strong>Hi, I'm Kgotso</strong></h2>
 <hr>
-<p align='center'>Software Developer</p>
 
 <p>As an aspiring software developer driven by an insatiable thirst for knowledge, I find myself captivated by the dynamic world of technology. With a keen interest in data and an evolving skill set, I have embraced a path in software development, relishing the chance to work with cutting-edge tools and technologies. My ultimate goal is to secure an internship or job opportunity that not only allows me to further enhance my abilities but also enables me to make meaningful contributions.
 
