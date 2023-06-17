@@ -2,7 +2,9 @@
 <hr>
 <p align='center'>Software Developer</p>
 
-<p>As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. As of this update, I am proficient in full-stack Javascript, Python and SQL and have an understanding of fundamental cloud computing concepts. </p>
+<p>As an aspiring software developer driven by an insatiable thirst for knowledge, I find myself captivated by the dynamic world of technology. With a keen interest in data and an evolving skill set, I have embraced a path in software development, relishing the chance to work with cutting-edge tools and technologies. My ultimate goal is to secure an internship or job opportunity that not only allows me to further enhance my abilities but also enables me to make meaningful contributions.
+
+What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in full-stack JavaScript, Python, and SQL, and possess a solid understanding of fundamental cloud computing concepts.</p>
 <br>
 
 📝 **Feel free to contact me**
