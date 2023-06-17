@@ -3,15 +3,15 @@
 <hr>
 <p align='center'>Software Developer</p>
 
-<p align='center'> As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
+<p>As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
 <br>
 
 📝 **Feel free to contact me**
 
 <br>
 
-Visit my [Linkedin](https://www.linkedin.com/in/kgotso-makhalimele/)
-Reach me on: 📫 kgotsom@protonmail.com
+- Visit my [Linkedin](https://www.linkedin.com/in/kgotso-makhalimele/)
+- Reach me on: 📫 kgotsom@protonmail.com
 
 <br>
 
@@ -20,7 +20,7 @@ Reach me on: 📫 kgotsom@protonmail.com
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
