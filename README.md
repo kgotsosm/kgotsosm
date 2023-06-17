@@ -33,7 +33,7 @@
 
 🤓 **Interested in** <br>
 
-![Amazon](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
