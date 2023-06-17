@@ -1,5 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I'm Kgotso</strong></samp></h2>
-<h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">Portfolio Website</a></strong></h3>
+<h2 align='center'><strong>Hi, I'm Kgotso</strong></h2>
 <hr>
 <p align='center'>Software Developer</p>
 
@@ -10,6 +9,7 @@
 
 <br>
 
+- View my [portfolio website](https://kgotso.netlify.app)
 - Visit my [Linkedin](https://www.linkedin.com/in/kgotso-makhalimele/)
 - Reach me on: 📫 kgotsom@protonmail.com
 
