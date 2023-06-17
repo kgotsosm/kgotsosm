@@ -10,7 +10,7 @@
 <br>
 
 - View my [portfolio website](https://kgotso.netlify.app)
-- Visit my [Linkedin](https://www.linkedin.com/in/kgotso-makhalimele/)
+- Visit my [LinkedIn](https://www.linkedin.com/in/kgotso-makhalimele/)
 - Reach me on: 📫 kgotsom@protonmail.com
 
 <br>
