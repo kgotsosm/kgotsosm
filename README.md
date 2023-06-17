@@ -1,18 +1,17 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kgotso</strong></samp></h2>
-<h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">🌐 Portfolio Website 🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://kgotso.netlify.app" target="_blank">Portfolio Website</a></strong></h3>
 <hr>
 <p align='center'>Software Developer</p>
 
-<p align='center'> 📫 As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
+<p align='center'> As someone who has a passion for learning more about tech and life, I have evolved into a software development path and an interest in data, and enjoy working with cutting edge tools and technologies while seeking opportunities to develop my skills in an internship or job opportunity that will allow me to continue learning and contribute meaningfully. This field excites me because there is no "finish line" in always improving and finding creative solutions to problems. I am proficient in full-stack Javascript, Python and SQL. </p>
 <br>
 
 📝 **Feel free to contact me**
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Kgotso%20Makhalimele-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/kgotso-makhalimele/)
-[![Mail](https://img.shields.io/badge/Email-kgotsom@protonmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kgotsom@protonmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Kgotso%20Makhalimele-gray?logo=medium&logoColor=white&labelColor=black)](https://medium.com/@kgotsom)
+Visit my [Linkedin](https://www.linkedin.com/in/kgotso-makhalimele/)
+Reach me on: 📫 kgotsom@protonmail.com
 
 <br>
 
@@ -23,11 +22,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Jekyll](https://img.shields.io/badge/-Jekyll-000000?style=flat&logo=jekyll&labelColor=green)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&labelColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-000000?style=flat&logo=yaml&labelColor=black)
 
 🌍 **Deployment platforms**<br>
 
