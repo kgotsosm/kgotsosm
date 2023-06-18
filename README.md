@@ -1,9 +1,12 @@
 <h2 align='center'><strong>Hi, I'm Kgotso</strong></h2>
 <hr>
 
-<p>As an insididual driven by curiosity and a thirst for knowledge, I have embraced a path in software development and want to continue to work with tools and technologies that are most efficient for solving problems. I am open to internships or full time opportunities that will allow me to expand my knowledge while also allowing me to learn on the job.
+<p>As an individual driven by curiosity and a thirst for knowledge, I have embraced a path in software development and want to continue to work with cutting edge tools and technologies to solve problems.
 
-What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in full-stack JavaScript, Python, and SQL, and have a solid understanding of fundamental cloud computing concepts.</p>
+What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in full-stack JavaScript, Python, and SQL, and have a solid understanding of fundamental cloud computing concepts.
+  
+I am currently open to internships or full time opportunities that will allow me to expand my knowledge while also creating space to learn on the job by contributing meaningfully.
+</p>
 <br>
 
 <br>
