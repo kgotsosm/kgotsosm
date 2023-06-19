@@ -5,7 +5,7 @@
 
 What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in full-stack JavaScript, Python, and SQL, and have a solid understanding of fundamental cloud computing concepts.
   
-I am currently open to internships or full time opportunities that will allow me to expand my knowledge while also creating learning on the job by contributing meaningfully.
+I am currently open to internships or full time opportunities that will allow me to expand my knowledge while also learning on the job by contributing meaningfully.
 </p>
 <br>
 
