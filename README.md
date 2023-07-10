@@ -3,7 +3,7 @@
 
 <p>As an individual driven by curiosity and a thirst for knowledge, I have embraced a path in software development and want to continue to work with cutting edge tools and technologies to solve problems.
 
-What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in full-stack JavaScript, Python, and SQL, and have a solid understanding of fundamental cloud computing concepts.
+What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in a few programming languages and tools and have a solid understanding of fundamental cloud computing concepts.
   
 I am currently open to internships or full time opportunities that will allow me to expand my knowledge by contributing meaningfully.
 </p>
@@ -24,6 +24,7 @@ I am currently open to internships or full time opportunities that will allow me
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 🌍 **Deployment platforms**<br>
