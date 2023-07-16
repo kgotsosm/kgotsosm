@@ -1,42 +1,15 @@
-<h2 align='center'><strong>Hi, I'm Kgotso</strong></h2>
+<h2 align='center'><strong>Kgotso</strong></h2>
 <hr>
 
-<p>As an individual driven by curiosity and a thirst for knowledge, I have embraced a path in software development and want to continue to work with cutting edge tools and technologies to solve problems.
+<p>:deciduous_tree: -  Aspiring software developer</p>
+<p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python and SQL</p>
+<p>:ice_cream: Current project: a podcast web app using React JS, Redux and Tailwind CSS</p>
 
-What truly excites me about software development is the gratification that comes from unraveling complex problems. The absence of a "finish line" in this field fuels my passion for constant improvement and the pursuit of innovative solutions. At present, I am proficient in a few programming languages and tools and have a solid understanding of fundamental cloud computing concepts.
-  
-I am currently open to internships or full time opportunities that will allow me to expand my knowledge by contributing meaningfully.
-</p>
-<br>
-
-<br>
-
-- Visit my [LinkedIn](https://www.linkedin.com/in/kgotso-makhalimele/)
 - Reach me on: 📫 kgotsom@protonmail.com
 
 <br>
 
-💻 **Languages & Tools** 🛠️<br>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=#FFD43B)
-![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=#4c768d)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-🌍 **Deployment platforms**<br>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-🤓 **Interested in** <br>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p> I enjoy learning and stretching my knowledge all the time. Most of the code I have written has been in Python, JavaScript and SQL. Growing everyday and learning new things is what keeps me excited about tech and that's what I spend most of my time doing. In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
 
 
 </br>
