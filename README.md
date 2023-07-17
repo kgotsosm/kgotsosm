@@ -13,7 +13,9 @@
 
 <h3>Most Used Tools & Technologies</h3>
 
+
 **JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
+<br?
 
 </br>
 <p style="display: flex; justify-content: space-between;">
