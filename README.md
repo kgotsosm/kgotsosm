@@ -11,7 +11,7 @@
 <p>Growing everyday and learning new things is what keeps me excited about tech.</p>
 <p>In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
 
-<h4>Most Used Tools & Technologies</h4>
+<h3>Most Used Tools & Technologies</h3>
 
 **JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
 
