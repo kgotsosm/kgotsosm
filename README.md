@@ -11,13 +11,14 @@
 <p>Growing everyday and learning new things is what keeps me excited about tech.</p>
 <p>In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
 
+
 <h3>Most Used Tools & Technologies</h3>
 
 
 **JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
 <br?
 
-</br>
+
 <p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=kgotsosm" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
