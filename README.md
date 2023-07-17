@@ -8,7 +8,7 @@
 
 <br>
 
-<p> I enjoy learning and stretching my knowledge all the time. Most of the code I have written has been in Python, JavaScript and SQL. Growing everyday and learning new things is what keeps me excited about tech and that's what I spend most of my time doing.</p>
+<p>Growing everyday and learning new things is what keeps me excited about tech.</p>
 <p>In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
 
 <h4>Most Used Tools & Technologies</h4>
