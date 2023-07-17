@@ -11,9 +11,9 @@
 <p> I enjoy learning and stretching my knowledge all the time. Most of the code I have written has been in Python, JavaScript and SQL. Growing everyday and learning new things is what keeps me excited about tech and that's what I spend most of my time doing.</p>
 <p>In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
 
-<h3>**Tools & Technologies**</h3>
+<h4>Most Used Tools & Technologies</h4>
 
-**JavaScript**, **Python**, **MongoDB**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**, **Oracle**
+**JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
 
 </br>
 <p style="display: flex; justify-content: space-between;">
