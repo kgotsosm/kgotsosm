@@ -1,7 +1,7 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
 
 <p>:deciduous_tree: -  Aspiring software developer</p>
-<p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python and SQL</p>
+<p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python, SQL and working with data</p>
 <p>:ice_cream: Current project: a podcast web app using React JS, Redux and Tailwind CSS</p>
 
 - Reach me on: 📫 kgotsom@protonmail.com
@@ -15,8 +15,8 @@
 <h3>Most Used Tools & Technologies</h3>
 
 
-**JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
-<br?
+**Docker**, **JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
+
 
 
 <p style="display: flex; justify-content: space-between;">
