@@ -2,7 +2,7 @@
 
 <p>:deciduous_tree: -  Aspiring software developer</p>
 <p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python, SQL and working with data</p>
-<p>:ice_cream: Current project: a podcast web app using React JS, Redux and Tailwind CSS</p>
+<p>:ice_cream: Current project: Minimek project focused on Redux</p>
 
 - Reach me on: 📫 kgotsom@protonmail.com
 
