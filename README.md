@@ -4,7 +4,7 @@
 <p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python, SQL and working with data</p>
 <p>:ice_cream: Current project: Stock market web app</p>
 
-- Reach me on: 📫 contact@kgotso.tech
+- Reach me on: 📫 kgotsom@protonmail.com
 
 <br>
 
