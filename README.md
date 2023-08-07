@@ -14,7 +14,7 @@
 <h3>Most Used Tools & Technologies</h3>
 
 
-**JavaScript**, **Python**, **MySQL**, **React**, **Redux**, **Tailwind CSS**, **AWS**, **Netlify**
+**JavaScript**, **Python**, **MySQL**, **React**, **Tailwind CSS**, **AWS**, **Netlify**
 
 
 
