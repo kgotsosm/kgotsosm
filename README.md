@@ -16,8 +16,7 @@
 
 <h3>Most Used Tools & Technologies</h3>
 
-
-**JavaScript**, **Python**, **MySQL**, **React**, **Tailwind CSS**, **AWS**, **Netlify**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
