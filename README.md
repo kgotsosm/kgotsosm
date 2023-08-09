@@ -1,5 +1,5 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
-<p align='center'><a href="https://kgotso.tech">Portfolio Website</a></p>
+<p align='center'><a href="https://kgotso.tech" target='_blank'>Portfolio Website</a></p>
 
 
 <p>:deciduous_tree: -  Aspiring software developer</p>
