@@ -1,10 +1,12 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
+<p align='center'>https://kgotso.tech</p>
 
 <p>:deciduous_tree: -  Aspiring software developer</p>
 <p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python, SQL and working with data</p>
 <p>:ice_cream: Current project: Stock market web app</p>
 
 - Reach me on: 📫 kgotsom@protonmail.com
+
 
 <br>
 
