@@ -16,9 +16,9 @@
 
 <h3>Most Used Tools & Technologies</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgotsosm&hide_progress=true)
 
 
-<p style="display: flex; justify-content: space-between;">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgotsosm&layout=compact)
+<div style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+</div>
