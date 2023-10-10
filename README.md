@@ -11,8 +11,6 @@
 
 <br>
 
-<p>In my spare time, I enjoy kicking a ball around with friends or watching soccer and cricket.</p>
-
 
 ### Most Used Tools & Technologies
 
