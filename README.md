@@ -1,7 +1,7 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
 
 <p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python, SQL and working with data</p>
-<p>:ice_cream: Current project: Data driven applications to address social problems</p>
+<p>:ice_cream: Current project: Data driven applications to create easier access to opportunities for youth</p>
 
 - Reach me on: 📫 kgotsom@protonmail.com
 
