@@ -1,9 +1,8 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
 
 <p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python and SQL</p>
-<p>:ice_cream: Current project: Data driven applications to create easier access to opportunities for youth</p>
 
-Focused on working with data from a variety of sources to gain insights and present them in a manner that is easy to understand. Leveraging a number of technologies to acheive this based on the specific project needs and exploring new technologies along the way to create useful applications.
+Focused on creating intuitive software applications that empower users by leveraging a number of technologies to acheive this based on the specific project needs and exploring new technologies along the way.
 
 - Reach me on: 📫 kgotsom@protonmail.com
 
