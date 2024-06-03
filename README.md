@@ -1,10 +1,6 @@
 <h2 align='center'><strong>Kgotso</strong></h2>
 
-<p>:books: - Working on cloud skills and always growing knowledge in JavaScript, Python and SQL</p>
-
 Focused on creating intuitive software applications that empower users and exploring new technologies along the way.
-
-When my hands aren't on the keyboard I enjoy watching a range of sports with friends and being outdoors.
 
 - Reach me on: 📫 kgotsom@protonmail.com
 
