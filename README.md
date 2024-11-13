@@ -12,7 +12,7 @@ Hello! I'm **Kgotso**, a passionate and skilled **Software Developer** and **Dat
 
 ### Current Focus
 
-I'm currently diving deep into **AWS**. My goal is to master the entire data lifecycle within AWS. I believe that cloud computing is the future of data management and scalability, and I’m dedicated to becoming an expert in this domain.
+I'm currently diving deep into cloud computing on **AWS** and **Azure**. My goal is to master the entire data lifecycle within cloud computing. I believe that cloud computing is the future of data management and scalability, and I’m dedicated to becoming an expert in this domain.
 
 ### Let's Connect!
 
