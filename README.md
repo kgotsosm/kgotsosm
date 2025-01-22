@@ -10,10 +10,6 @@ Hello! I'm **Kgotso**, a passionate and skilled **Software Developer** and **Dat
 
 - **Data Engineering:** I have a deep understanding of data management, ETL processes, and data pipeline development. I’m skilled in transforming raw data into actionable insights that drive business decisions.
 
-### Current Focus
-
-I'm currently diving deep into cloud computing on **AWS** and **Azure**. My goal is to master the entire data lifecycle within cloud computing. I believe that cloud computing is the future of data management and scalability, and I’m dedicated to becoming an expert in this domain.
-
 ### Let's Connect!
 
 I’m always open to collaborating on exciting projects, learning new things, or just having a chat about tech. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kgotsomakhalimele/) or follow my work here on GitHub.
