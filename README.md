@@ -2,13 +2,11 @@
 
 ## About Me
 
-Hello! I'm **Kgotso**, a passionate and skilled **Software Developer** and **Data Engineer** with a strong foundation in building and optimizing software solutions and data pipelines. My journey in tech has led me to specialize in various aspects of software development and data engineering, where I’ve honed my skills in technologies like JavaScript, Python, SQL, and cloud-based solutions.
+Hello! I'm **Kgotso**, a passionate and skilled **Full Stack Developer** with a strong foundation in building and optimizing software solutions and data pipelines. My journey in tech has led me to specialize in various aspects of software development and data engineering, where I’ve honed my skills in technologies like JavaScript, Python, SQL, and cloud-based solutions.
 
 ### What I Do
 
 - **Software Development:** I enjoy designing and developing robust, scalable software applications. My experience spans across frontend and backend technologies, and I have a knack for building full-stack applications that solve real-world problems.
-
-- **Data Engineering:** I have a deep understanding of data management, ETL processes, and data pipeline development. I’m skilled in transforming raw data into actionable insights that drive business decisions.
 
 ### Let's Connect!
 
